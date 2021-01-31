@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0;
 }
-.Header{
+.Title{
     background-color: cadetblue;
     color: white;
     padding: 5px;
@@ -11,4 +11,11 @@
 .Navigation{
     background-color: cadetblue;
     color: white;
+}
+
+.Header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
 }
