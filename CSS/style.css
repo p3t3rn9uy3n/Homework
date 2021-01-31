@@ -1,6 +1,11 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
 .Header{
     background-color: cadetblue;
     color: white;
+    padding: 5px;
 }
 
 .Navigation{
