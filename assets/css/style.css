@@ -9,6 +9,7 @@ body {
 }
 
 
+/* Navigation buttons at the top */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -25,7 +26,6 @@ body {
     color: #d9dcd6;
 }
 
-/* Navigation buttons at the top */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
