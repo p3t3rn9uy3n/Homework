@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Navigation buttons at the top */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -47,6 +49,7 @@ p {
     font-size: 16px;
 }
 
+/* Main article section */
 .hero {
     height: 800px;
     width: 100%;
@@ -72,6 +75,7 @@ p {
     margin-left: 20px;
 }
 
+/* Side bar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
